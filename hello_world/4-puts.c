@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - fonction puts et insertion phrase caracte√re
  *
