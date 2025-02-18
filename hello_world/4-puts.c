@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - fonction puts et insertion phrase caracte√re
+ * main - fonction puts et insertion phrase caractere
  *
  * Return: Always 0 (Success)
  */
