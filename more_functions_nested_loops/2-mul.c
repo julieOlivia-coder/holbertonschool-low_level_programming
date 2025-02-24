@@ -3,7 +3,9 @@
 
 /**
  * mul - fonction pour multiplier 2 nombres entiers
- * @c: character
+ * @a: integer
+ * @b: second integer
+ * Return: return a * b
  */
 
 int mul(int a, int b)
