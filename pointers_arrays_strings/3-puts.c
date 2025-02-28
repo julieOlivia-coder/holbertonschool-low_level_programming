@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * _puts(char *str) - function that prints a string
- * @*str : string pointé
+ * _puts - function that prints a string
+ * @str: pointeur
  * Return: void
  */
 void _puts(char *str)
