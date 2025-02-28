@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * _puts - function that prints a string
- * @str: pointeur
- * Return: void
+ * print_rev - Function that prints a string in reverse.
+ * @s: It's a pointer.
+ * Return: return void in end.
  */
 
 void print_rev(char *s)
